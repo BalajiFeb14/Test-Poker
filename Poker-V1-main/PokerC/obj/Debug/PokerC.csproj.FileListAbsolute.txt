@@ -1,0 +1,15 @@
+c:\users\abeo\documents\visual studio 2012\Projects\PokerC\PokerC\bin\Debug\PokerC.exe.config
+c:\users\abeo\documents\visual studio 2012\Projects\PokerC\PokerC\bin\Debug\PokerC.exe
+c:\users\abeo\documents\visual studio 2012\Projects\PokerC\PokerC\bin\Debug\PokerC.pdb
+c:\users\abeo\documents\visual studio 2012\Projects\PokerC\PokerC\obj\Debug\PokerC.exe
+c:\users\abeo\documents\visual studio 2012\Projects\PokerC\PokerC\obj\Debug\PokerC.pdb
+C:\Users\Devi.AzureAD\Downloads\Poker-Program-main\Poker-Program-main\PokerC\bin\Debug\PokerC.exe.config
+C:\Users\Devi.AzureAD\Downloads\Poker-Program-main\Poker-Program-main\PokerC\bin\Debug\PokerC.exe
+C:\Users\Devi.AzureAD\Downloads\Poker-Program-main\Poker-Program-main\PokerC\bin\Debug\PokerC.pdb
+C:\Users\Devi.AzureAD\Downloads\Poker-Program-main\Poker-Program-main\PokerC\obj\Debug\PokerC.csprojAssemblyReference.cache
+C:\Users\Devi.AzureAD\Downloads\Poker-Program-main\Poker-Program-main\PokerC\obj\Debug\PokerC.csproj.CoreCompileInputs.cache
+C:\Users\Devi.AzureAD\Downloads\Poker-Program-main\Poker-Program-main\PokerC\obj\Debug\PokerC.exe
+C:\Users\Devi.AzureAD\Downloads\Poker-Program-main\Poker-Program-main\PokerC\obj\Debug\PokerC.pdb
+E:\Poker-V1-main\PokerC\bin\Debug\PokerC.exe.config
+E:\Poker-V1-main\PokerC\obj\Debug\PokerC.exe
+E:\Poker-V1-main\PokerC\obj\Debug\PokerC.pdb
